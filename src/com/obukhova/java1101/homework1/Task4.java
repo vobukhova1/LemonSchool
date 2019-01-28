@@ -14,7 +14,6 @@ public class Task4 {
             result+=n%10;
             n/=10;
         }
-        result+=n;
         System.out.println(result);
     }
 }
