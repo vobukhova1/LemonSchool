@@ -4,6 +4,7 @@ package com.obukhova.java1101.homework2;
  * Created by Viktoriia
  * on 31.01.2019.
  */
+//Развернуть ФИО задом на перед
 public class Task3 {
     public static void main(String[] args) {
         StringBuilder fullName=new StringBuilder("Obukhova Viktoriia Arturivna");
